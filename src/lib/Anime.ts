@@ -1,4 +1,4 @@
-import { utils } from './'
+import { utils } from './index.ts'
 import {
     IAnime,
     IAnimeFull,
@@ -23,7 +23,7 @@ import {
     IAnimeSearchOptions,
     ISimpleOption,
     TAnimeFilter
-} from '../typings'
+} from '../typings/index.ts'
 
 export class Anime {
     constructor() {}

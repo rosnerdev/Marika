@@ -15,8 +15,8 @@ import {
     ITopManga,
     IMangaSearchOptions,
     ISimpleOption
-} from '../typings'
-import { utils } from './'
+} from '../typings/index.ts'
+import { utils } from './index.ts'
 
 export class Manga {
     constructor() {}

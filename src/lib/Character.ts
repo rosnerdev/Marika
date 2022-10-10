@@ -8,8 +8,8 @@ import {
     ITopCharacter,
     ICharacterSearchOptions,
     ISimpleOption
-} from '../typings'
-import { utils } from './'
+} from '../typings/index.ts'
+import { utils } from './index.ts'
 
 export class Character {
     constructor() {}
