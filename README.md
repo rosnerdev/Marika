@@ -3,7 +3,7 @@
 
 # Marika
 
-A promise based API wrapper for the unofficial [MyAnimeList API](https://jikan.moe/)
+A promise based API wrapper for the unofficial [MyAnimeList API](https://jikan.moe/) ported for deno
 
 </div>
 
