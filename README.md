@@ -3,21 +3,11 @@
 
 # Marika
 
-[![NPM](https://img.shields.io/badge/Available%20On-NPM-lightgrey.svg?logo=npm&logoColor=339933&labelColor=white&style=flat-square)](https://www.npmjs.com/package/@shineiichijo/marika)
-
 A promise based API wrapper for the unofficial [MyAnimeList API](https://jikan.moe/)
 
 </div>
 
 ---
-
-## Installation
-
-```sh
-npm i @shineiichijo/marika
-
-yarn add @shineiichijo/marika
-```
 
 ## 🚀 Importing
 
