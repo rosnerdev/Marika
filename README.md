@@ -12,7 +12,7 @@ A promise based API wrapper for the unofficial [MyAnimeList API](https://jikan.m
 ## 🚀 Importing
 
 ```ts
-import { Anime, Character, Manga } from "@shineiichijo/marika"; // const { Anime, Character, Manga } = require("@shineiichijo/marika")
+import { Anime, Character, Manga } from "https://deno.land/x/marika@1.0.0/src/mod.ts";
 const animeClient = new Anime();
 const charaClient = new Character();
 const mangaClient = new Manga();
